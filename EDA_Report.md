@@ -1,5 +1,6 @@
 # **Exploratory Data Analysis (EDA) Report**
 ## **Amazon Sales Performance**
+## **Objective: Business Insights**
 
 ---
 
