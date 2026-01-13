@@ -3,7 +3,7 @@
 **Objective: Business Insights**
 
 
-**Date:** January 2026  
+**Date:** 13 January 2026  
 **Dataset:** Amazon India Sales Data  
 **Reporting Period:** Weekly Progress Summary  
 
